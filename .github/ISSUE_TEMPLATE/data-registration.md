@@ -15,15 +15,15 @@ assignees: ''
 
 **Project ID:** ...
 
-**It's my personal data:** yes / no
-
-<!-- If it's your personal data, you should fill the name of it only. -->
-
 **Dataset:**
 
 1) **Short name:** ...
 2) **Full name:** ...
 3) **Source:** Article/Data base/Repository/(other)
+
+**It's my personal data:** yes / no
+
+<!-- If it's your personal data, you should fill the name of it only. -->
 
 **Article:**  
 a. Article name: ...  
